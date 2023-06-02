@@ -10,7 +10,7 @@ The Pipeline of this project
 
 There is a imbalanced in the training data, in order to solve this problem. A downsampling function is used to balance the amount of training data between spam and ham label
 
-<img src="https://github.com/jangvu/Spam_or_Ham_Email_Classification/assets/50269219/f8dc3b4d-dcfd-4b68-bb85-01cb4208fb90" alt="Imbalanced Data" width="100" height="100">
+<img src="https://github.com/jangvu/Spam_or_Ham_Email_Classification/assets/50269219/f8dc3b4d-dcfd-4b68-bb85-01cb4208fb90" alt="Imbalanced Data" width="500" height="400">
 
 
 
