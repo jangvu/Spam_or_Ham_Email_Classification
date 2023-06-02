@@ -9,7 +9,10 @@ The Pipeline of this project
 1. Preprocessing Data
 
 There is a imbalanced in the training data, in order to solve this problem. A downsampling function is used to balance the amount of training data between spam and ham label
-![image](https://github.com/jangvu/Spam_or_Ham_Email_Classification/assets/50269219/f8dc3b4d-dcfd-4b68-bb85-01cb4208fb90)
+
+<img src="https://github.com/jangvu/Spam_or_Ham_Email_Classification/assets/50269219/f8dc3b4d-dcfd-4b68-bb85-01cb4208fb90" alt="Imbalanced Data" width="100" height="100">
+
+
 
 One-hot Encoding is used to reduce the computational cost, in which
 * 1 – If a category is a ham/ not spam
