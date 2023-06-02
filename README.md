@@ -3,7 +3,8 @@ Spam emails are unwanted emails share in bulk intending to gather data/ do phish
 In this small project, I will try to classify the spam or ham email by using the data from Kaggle.
 
 The Pipeline of this project 
-[Spam_or_ham.drawio.pdf](https://github.com/jangvu/Spam_or_Ham_Email_Classification/files/11636920/Spam_or_ham.drawio.pdf)
+![Spam_or_ham drawio](https://github.com/jangvu/Spam_or_Ham_Email_Classification/assets/50269219/48ed9582-6de5-4ba4-b211-57d2531b2ae7)
+
 
 1. Preprocessing Data
 
